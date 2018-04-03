@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>AD 1200</string>
+		<key>title</key>
+		<string>Maskette</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>AD 200</string>
+		<key>title</key>
+		<string>Maskette</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>AD 900</string>
+		<key>title</key>
+		<string>Yoke</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>AD 300</string>
+		<key>title</key>
+		<string>Pendant representing the Maize God</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>AD 300</string>
+		<key>title</key>
+		<string>Sculpture in the form of a human head</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>AD 1400</string>
+		<key>title</key>
+		<string>Mask part</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>AD 1325</string>
+		<key>title</key>
+		<string>Sculpture representing Tlalchitonatiuh</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>AD 1325</string>
+		<key>title</key>
+		<string>Maskette representing the rain god Tláloc</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>600 BC</string>
+		<key>title</key>
+		<string>Axe head</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>AD 1325</string>
+		<key>title</key>
+		<string>Bowl used to hold hearts of sacrificial victims</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>AD 500</string>
+		<key>title</key>
+		<string>Funerary urn</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>AD 1000</string>
+		<key>title</key>
+		<string>Puebla-style ring depicting Xipe Totec</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>300 BC</string>
+		<key>title</key>
+		<string>House model</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>AD 400</string>
+		<key>title</key>
+		<string>Whistle figure of a woman</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>AD 600</string>
+		<key>title</key>
+		<string>Figure of a priest</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>AD 500</string>
+		<key>title</key>
+		<string>Trumpet</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>AD 900</string>
+		<key>title</key>
+		<string>Human figure</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>AD 400</string>
+		<key>title</key>
+		<string>Figure of a woman</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>AD 1200</string>
+		<key>title</key>
+		<string>Whistling vessel representing Xiuhtecuhtli</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>AD 400</string>
+		<key>title</key>
+		<string>Figure of the ruler Halach Huinik</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Guatemala</string>
+		<key>date</key>
+		<string>AD 350</string>
+		<key>title</key>
+		<string>Tripod vessel and cover</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>400 BC</string>
+		<key>title</key>
+		<string>Female figure</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>AD 400</string>
+		<key>title</key>
+		<string>Figure</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>800 BC</string>
+		<key>title</key>
+		<string>Bowl</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>AD 1350</string>
+		<key>title</key>
+		<string>Cholula-style female figure representing the corn goddess</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>AD 400</string>
+		<key>title</key>
+		<string>Figure of a priest</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>AD 200</string>
+		<key>title</key>
+		<string>Female-figure rattle</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>300 BC</string>
+		<key>title</key>
+		<string>Figure of an emaciated dog</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>AD 400</string>
+		<key>title</key>
+		<string>Flute</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>400 BC</string>
+		<key>title</key>
+		<string>Female figure</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>AD 300</string>
+		<key>title</key>
+		<string>Trumpet</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>AD 900</string>
+		<key>title</key>
+		<string>Cempoala-style trumpet</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>300 BC</string>
+		<key>title</key>
+		<string>Vessel in the form of a scorpion</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>AD 250</string>
+		<key>title</key>
+		<string>Figure of a priest wearing a Tláloc mask</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>150 BC</string>
+		<key>title</key>
+		<string>Female figure</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>AD 1300</string>
+		<key>title</key>
+		<string>Pipe with jaguar-head rattle</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>150 BC</string>
+		<key>title</key>
+		<string>Figure of a mother and child</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>AD 1300</string>
+		<key>title</key>
+		<string>Ritual vessel with spout</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Guatemala</string>
+		<key>date</key>
+		<string>AD 500</string>
+		<key>title</key>
+		<string>Hacha</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Ecuador</string>
+		<key>date</key>
+		<string>AD 1425</string>
+		<key>title</key>
+		<string>Vessel</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Ecuador</string>
+		<key>date</key>
+		<string>AD 500</string>
+		<key>title</key>
+		<string>Seat</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 1550</string>
+		<key>title</key>
+		<string>Qero</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 1475</string>
+		<key>title</key>
+		<string>Qero with animal figurehead</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 1700</string>
+		<key>title</key>
+		<string>Qero in the form of a jaguar’s head</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 200</string>
+		<key>title</key>
+		<string>Panpipes</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 1475</string>
+		<key>title</key>
+		<string>Qero</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 1300</string>
+		<key>title</key>
+		<string>Qero with bird figurehead</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 1500</string>
+		<key>title</key>
+		<string>Ceremonial vessel</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 1700</string>
+		<key>title</key>
+		<string>Ceremonial vessel</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 1550</string>
+		<key>title</key>
+		<string>Qero</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 750</string>
+		<key>title</key>
+		<string>Ear ornament</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 1200</string>
+		<key>title</key>
+		<string>Human figure</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 200</string>
+		<key>title</key>
+		<string>Trumpet</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 1550</string>
+		<key>title</key>
+		<string>Qero with design of nobles under a rainbow</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 400</string>
+		<key>title</key>
+		<string>Stirrup-spout bottle</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 1550</string>
+		<key>title</key>
+		<string>Qero</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 100</string>
+		<key>title</key>
+		<string>Ear ornament with sun image</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 1200</string>
+		<key>title</key>
+		<string>Funerary mask</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 1200</string>
+		<key>title</key>
+		<string>Vessel in human form</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 400</string>
+		<key>title</key>
+		<string>Whistle in the form of a tillandsia plant</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Bolivia</string>
+		<key>date</key>
+		<string>AD 600</string>
+		<key>title</key>
+		<string>Pedestal-based incense burner depicting a jaguar</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Bolivia</string>
+		<key>date</key>
+		<string>AD 1000</string>
+		<key>title</key>
+		<string>Jar depicting a llama or an alpaca</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 200</string>
+		<key>title</key>
+		<string>Stirrup-spout vessel with male figure</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 1400</string>
+		<key>title</key>
+		<string>Vessel in the form of a tattooed man</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 200</string>
+		<key>title</key>
+		<string>Pot drum</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 1200</string>
+		<key>title</key>
+		<string>Human figure</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 600</string>
+		<key>title</key>
+		<string>Hat</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Bolivia</string>
+		<key>date</key>
+		<string>AD 750</string>
+		<key>title</key>
+		<string>Incense burner</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 800</string>
+		<key>title</key>
+		<string>Staff</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 200</string>
+		<key>title</key>
+		<string>Stirrup-spout bottle depicting two men</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Ecuador</string>
+		<key>date</key>
+		<string>AD 100</string>
+		<key>title</key>
+		<string>Male figure</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 1425</string>
+		<key>title</key>
+		<string>Vessel representing terraced agricultural fields</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Bolivia</string>
+		<key>date</key>
+		<string>AD 600</string>
+		<key>title</key>
+		<string>Incense burner in the form of a condor</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Ecuador</string>
+		<key>date</key>
+		<string>600 BC</string>
+		<key>title</key>
+		<string>Vessel in the form of a tattooed man</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Ecuado</string>
+		<key>date</key>
+		<string>AD 400</string>
+		<key>title</key>
+		<string>Whistle in the form of an elaborately dressed man</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 700</string>
+		<key>title</key>
+		<string>Poncho</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 900</string>
+		<key>title</key>
+		<string>Vessel in the form of a man with a llama</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Ecuador</string>
+		<key>date</key>
+		<string>4000 BC</string>
+		<key>title</key>
+		<string>Female figure</string>
+	</dict>
+</array>
+</plist>

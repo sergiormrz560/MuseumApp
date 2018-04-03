@@ -90,6 +90,9 @@
 		C3032C722073340B00EE4036 /* 7.png in Resources */ = {isa = PBXBuildFile; fileRef = C3032C4B2073340A00EE4036 /* 7.png */; };
 		C3032C732073340B00EE4036 /* 39.png in Resources */ = {isa = PBXBuildFile; fileRef = C3032C4C2073340A00EE4036 /* 39.png */; };
 		C3032C742073340B00EE4036 /* 24.png in Resources */ = {isa = PBXBuildFile; fileRef = C3032C4D2073340B00EE4036 /* 24.png */; };
+		C340AB0F2073ED7B00F526DA /* MuseumPacket.swift in Sources */ = {isa = PBXBuildFile; fileRef = C340AB0E2073ED7B00F526DA /* MuseumPacket.swift */; };
+		C340AB112073ED9800F526DA /* MuseumViewMasterPackets.swift in Sources */ = {isa = PBXBuildFile; fileRef = C340AB102073ED9800F526DA /* MuseumViewMasterPackets.swift */; };
+		C340AB132073F28A00F526DA /* Packets.plist in Resources */ = {isa = PBXBuildFile; fileRef = C340AB122073F28900F526DA /* Packets.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -178,6 +181,9 @@
 		C3032C4B2073340A00EE4036 /* 7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 7.png; sourceTree = "<group>"; };
 		C3032C4C2073340A00EE4036 /* 39.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 39.png; sourceTree = "<group>"; };
 		C3032C4D2073340B00EE4036 /* 24.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 24.png; sourceTree = "<group>"; };
+		C340AB0E2073ED7B00F526DA /* MuseumPacket.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MuseumPacket.swift; sourceTree = "<group>"; };
+		C340AB102073ED9800F526DA /* MuseumViewMasterPackets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MuseumViewMasterPackets.swift; sourceTree = "<group>"; };
+		C340AB122073F28900F526DA /* Packets.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Packets.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -194,6 +200,7 @@
 		1135D39B206EBB4300A0FAD4 = {
 			isa = PBXGroup;
 			children = (
+				C340AB0D2073ED5C00F526DA /* Data Model */,
 				C3032BD8207333DF00EE4036 /* Pictures */,
 				1135D3A6206EBB4300A0FAD4 /* MuseumApp */,
 				1135D3A5206EBB4300A0FAD4 /* Products */,
@@ -216,6 +223,7 @@
 				1135D3AB206EBB4300A0FAD4 /* Main.storyboard */,
 				1135D3AE206EBB4300A0FAD4 /* Assets.xcassets */,
 				1135D3B0206EBB4300A0FAD4 /* LaunchScreen.storyboard */,
+				C340AB122073F28900F526DA /* Packets.plist */,
 				1135D3B3206EBB4300A0FAD4 /* Info.plist */,
 			);
 			path = MuseumApp;
@@ -304,6 +312,15 @@
 				C3032BFD207333FA00EE4036 /* 78.png */,
 			);
 			path = Pictures;
+			sourceTree = "<group>";
+		};
+		C340AB0D2073ED5C00F526DA /* Data Model */ = {
+			isa = PBXGroup;
+			children = (
+				C340AB0E2073ED7B00F526DA /* MuseumPacket.swift */,
+				C340AB102073ED9800F526DA /* MuseumViewMasterPackets.swift */,
+			);
+			path = "Data Model";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -405,6 +422,7 @@
 				C3032C03207333FA00EE4036 /* 63.png in Resources */,
 				C3032C522073340B00EE4036 /* 6.png in Resources */,
 				1135D3B2206EBB4300A0FAD4 /* LaunchScreen.storyboard in Resources */,
+				C340AB132073F28A00F526DA /* Packets.plist in Resources */,
 				1135D3AF206EBB4300A0FAD4 /* Assets.xcassets in Resources */,
 				C3032C712073340B00EE4036 /* 31.png in Resources */,
 				C3032C00207333FA00EE4036 /* 72.png in Resources */,
@@ -458,6 +476,8 @@
 			files = (
 				1135D3AA206EBB4300A0FAD4 /* ViewController.swift in Sources */,
 				1135D3A8206EBB4300A0FAD4 /* AppDelegate.swift in Sources */,
+				C340AB112073ED9800F526DA /* MuseumViewMasterPackets.swift in Sources */,
+				C340AB0F2073ED7B00F526DA /* MuseumPacket.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
